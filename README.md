@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onesmo Limbe</h1>
-<h3 align="center">Aspiring Full Stack Developer | Networking Enthusiast | AI Automation Learner</h3>
+<h3 align="center">Aspiring Full Stack Developer | UI/UX Design | AI Automation Learner</h3>
 
 <p align="center">
 Passionate about building modern web applications, designing scalable systems, and exploring AI-powered automation. I enjoy solving real-world problems through technology and continuously improving my skills by creating practical projects.
